@@ -1,1 +1,1 @@
-print('Hello from repo2')
+print("Resolved version")
